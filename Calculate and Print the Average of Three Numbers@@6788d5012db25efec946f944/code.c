@@ -1,7 +1,10 @@
 #include <stdio.h>
 int main() {
     printf("");
-    int a,b,c,d;
+    int a;
+    int b;
+    int c;
+    int d;
     float e;
     scanf("%d &d %d",&a,&b,&c);
     d=a+b+c;
