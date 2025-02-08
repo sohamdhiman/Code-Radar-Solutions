@@ -3,7 +3,7 @@
 int main() {
     int a;
     scanf("%d",&a,&b);
-    if(a%b){
+    if(a%2){
         printf("Even");
     }
     else{
