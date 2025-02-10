@@ -7,7 +7,7 @@ int main() {
             printf("Vowel");
         }
         else{
-                printf("Consonent");
+                printf("Consonant");
         }
     }
     else if(a>=0&&a<=9){
