@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    char a[3];
+    int a;
     scanf("%s",&a);
-    if (a>="90"){
+    if (a>=90){
         printf("A");
     }
     else if(a>=80&&a<90){
