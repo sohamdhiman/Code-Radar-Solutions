@@ -12,5 +12,11 @@ int main() {
             )
         }
     }
+    else if(a>=1&&a<=9){
+        printf("Digit");
+    }
+    else{
+        printf("Special Character");
+    }
     return 0;
 }
