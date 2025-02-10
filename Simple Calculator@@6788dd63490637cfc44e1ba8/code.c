@@ -18,7 +18,7 @@ int main() {
     else if(c=='/'){
         float e;
         e=a / b;
-        printf("%.2f",e);
+        printf("%.0f",e);
     }
     else{
         printf("Invalid");
