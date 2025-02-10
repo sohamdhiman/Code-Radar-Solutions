@@ -9,6 +9,5 @@ int main() {
     else{
         printf("No");
     }
-    printf("%s", welcome());
     return 0;
 }
