@@ -19,7 +19,7 @@ int main() {
     else if(c=='/'){
         float e;
         if (b==0){
-            printf("");
+            printf("error");
         }
         else{
             e=a / b;
