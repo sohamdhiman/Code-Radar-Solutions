@@ -2,6 +2,7 @@
 
 int main(){
     int a;
+    scanf("%d",&a);
     if (a==1){
         printf("Monday");
     }
@@ -24,7 +25,7 @@ int main(){
         printf("Sunday");
     }
     else{
-        printf("");
+        printf("Invalid");
     } 
     return 0;
 }
