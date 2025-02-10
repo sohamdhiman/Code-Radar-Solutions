@@ -21,7 +21,7 @@ int main() {
         printf("%.2f",e);
     }
     else{
-        printf()
+        printf();
     }
     return 0;
 }
